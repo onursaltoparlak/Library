@@ -16,6 +16,7 @@ Bu repoyu klonlayın:
 
 
 git clone https://github.com/onursaltoparlak/Library.git
+
 Visual Studio ile Library.sln dosyasını açın.
 
 App.config dosyasındaki bağlantı dizesini kendi SQL Server ayarlarınıza göre güncelleyin.
